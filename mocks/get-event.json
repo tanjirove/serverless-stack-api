@@ -1,0 +1,10 @@
+{
+  "pathParameters": {
+    "id": "cd3d7410-dfdb-11ea-ab98-47223683eac2"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-TANJIR"
+    }
+  }
+}
